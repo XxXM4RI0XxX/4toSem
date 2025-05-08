@@ -48,7 +48,7 @@
           <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khuvHUe_BoenZiBCbpRy-131" value="Operadores extendidos" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1660" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khuvHUe_BoenZiBCbpRy-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="khuvHUe_BoenZiBCbpRy-134" target="khuvHUe_BoenZiBCbpRy-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -300,10 +300,10 @@
         <mxCell id="Gm9-plgxADmM-QaiJ2Ih-40" value="Obtiene tuplas comunes en ambas relaciones" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gm9-plgxADmM-QaiJ2Ih-41" value="&lt;div&gt;- Conseguir todas las combinaciones posibles de elementos&lt;/div&gt;&lt;div&gt;- Combinar dos relaciones sin filtrados&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Gm9-plgxADmM-QaiJ2Ih-41" value="&lt;div&gt;- Detectar tuplas comunes entre relaciones&lt;/div&gt;&lt;div&gt;- Detectar con que atributo se conectan dos relaciones&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="167.62" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gm9-plgxADmM-QaiJ2Ih-42" value="&lt;div&gt;A &lt;span&gt;× B&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gm9-plgxADmM-QaiJ2Ih-42" value="&lt;div&gt;A&amp;nbsp;&lt;span&gt;∩&lt;/span&gt;&lt;span&gt; B&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="405" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gm9-plgxADmM-QaiJ2Ih-43" value="&lt;div&gt;Definicion&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
